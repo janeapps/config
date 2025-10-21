@@ -27,7 +27,7 @@
     "second_mrec_ads_image": ["0", "0"],
     "is_show_related": true,
     "is_redirect_banned_user": true,
-    "is_reference_active": true,
+    "is_reference_active": false,
     "deny_cc": [
         "US",
         "GB",
