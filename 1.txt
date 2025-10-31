@@ -28,7 +28,7 @@
     "is_show_related": true,
     "is_redirect_banned_user": true,
     "is_reference_active": false,
-    "is_show_promotion_dialog": false,
+    "is_show_promotion_dialog": true,
     "deny_cc": [
         "US",
         "GB",
