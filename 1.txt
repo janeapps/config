@@ -29,6 +29,7 @@
     "is_redirect_banned_user": true,
     "is_reference_active": true,
     "is_show_promotion_dialog": true,
+    "is_show_interstitial_android12_below": false,
     "deny_cc": [
         "US",
         "GB",
